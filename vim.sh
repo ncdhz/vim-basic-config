@@ -17,8 +17,6 @@ set ruler
 set showmatch
 set hlsearch
 set ignorecase
-set listchars=tab:»■,trail:■
-set list
 set wildmenu
 set wildmode=longest:list,full'
 
@@ -46,5 +44,4 @@ else
         fi
     fi
 fi
-
 echo "Config success"
