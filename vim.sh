@@ -1,5 +1,5 @@
 #!/bin/bash
-vimConfigFile=fsafsfa
+vimConfigFile='.vimrc'
 vimBasicConfig='set number
 syntax on
 set showmode
