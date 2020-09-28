@@ -1,9 +1,9 @@
 # vim-basic-config
 使用：（终端执行）
 
-    ```
-    curl https://raw.githubusercontent.com/ncdhz/vim-basic-config/master/vim.sh | bash
-    ```
+```
+curl https://raw.githubusercontent.com/ncdhz/vim-basic-config/master/vim.sh | bash
+```
 
 ## Vim 的基本知识
 1. `Vim` 的配置文件为 `.vimrc` 可以通过
@@ -29,7 +29,7 @@
     双引号开始的行表示注解
     ```
     
-## 基本配置
+## Vim 的基本配置
 
 1. `set number` 显示序号
 2. `set nocompatible` 不与`vi`兼容
